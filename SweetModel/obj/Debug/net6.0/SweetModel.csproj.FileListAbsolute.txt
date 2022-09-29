@@ -1,0 +1,12 @@
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\bin\Debug\net6.0\SweetModel.deps.json
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\bin\Debug\net6.0\SweetModel.dll
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\bin\Debug\net6.0\SweetModel.pdb
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\obj\Debug\net6.0\SweetModel.csproj.AssemblyReference.cache
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\obj\Debug\net6.0\SweetModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\obj\Debug\net6.0\SweetModel.AssemblyInfoInputs.cache
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\obj\Debug\net6.0\SweetModel.AssemblyInfo.cs
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\obj\Debug\net6.0\SweetModel.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\obj\Debug\net6.0\SweetModel.dll
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\obj\Debug\net6.0\refint\SweetModel.dll
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\obj\Debug\net6.0\SweetModel.pdb
+C:\Users\laksh\Source\Repos\SweetIndia\SweetModel\obj\Debug\net6.0\ref\SweetModel.dll

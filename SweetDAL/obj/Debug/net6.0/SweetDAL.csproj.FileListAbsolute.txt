@@ -1,0 +1,15 @@
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\bin\Debug\net6.0\SweetDAL.deps.json
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\bin\Debug\net6.0\SweetDAL.dll
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\bin\Debug\net6.0\SweetDAL.pdb
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\bin\Debug\net6.0\SweetModel.dll
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\bin\Debug\net6.0\SweetModel.pdb
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\SweetDAL.csproj.AssemblyReference.cache
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\SweetDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\SweetDAL.AssemblyInfoInputs.cache
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\SweetDAL.AssemblyInfo.cs
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\SweetDAL.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\SweetDAL.csproj.CopyComplete
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\SweetDAL.dll
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\refint\SweetDAL.dll
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\SweetDAL.pdb
+C:\Users\laksh\Source\Repos\SweetIndia\SweetDAL\obj\Debug\net6.0\ref\SweetDAL.dll
