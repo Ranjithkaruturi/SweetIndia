@@ -6,11 +6,11 @@
         {
 			try
 			{
-				return "true";
+				return "Data inserted succesfully";
 			}
 			catch (Exception exp)
 			{
-				return "false";
+				return "Data insert failed";
 			}
         }
     }
