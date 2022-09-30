@@ -5,11 +5,13 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SweetIndia", "SweetIndia\SweetIndia.csproj", "{139AF320-C65F-4CE1-8610-C21F721D7FE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SweetWEB", "SweetWEB\SweetWEB.csproj", "{2FF982BD-02A5-4E9C-B835-E5A16B851B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SweetWEB", "SweetWEB\SweetWEB.csproj", "{2FF982BD-02A5-4E9C-B835-E5A16B851B1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SweetDAL", "SweetDAL\SweetDAL.csproj", "{7794EEE1-EA20-442E-A281-05E720993157}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SweetDAL", "SweetDAL\SweetDAL.csproj", "{7794EEE1-EA20-442E-A281-05E720993157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SweetModel", "SweetModel\SweetModel.csproj", "{CBA9B7EA-4410-48A9-9969-E95FF771EC0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SweetModel", "SweetModel\SweetModel.csproj", "{CBA9B7EA-4410-48A9-9969-E95FF771EC0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{AE991E1C-93FA-426E-8C20-849BAE0F8995}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CBA9B7EA-4410-48A9-9969-E95FF771EC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBA9B7EA-4410-48A9-9969-E95FF771EC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBA9B7EA-4410-48A9-9969-E95FF771EC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE991E1C-93FA-426E-8C20-849BAE0F8995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE991E1C-93FA-426E-8C20-849BAE0F8995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE991E1C-93FA-426E-8C20-849BAE0F8995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE991E1C-93FA-426E-8C20-849BAE0F8995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
