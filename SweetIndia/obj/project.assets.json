@@ -510,11 +510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetIndia\\SweetIndia.csproj",
+      "projectUniqueName": "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetIndia\\SweetIndia.csproj",
       "projectName": "SweetIndia",
-      "projectPath": "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetIndia\\SweetIndia.csproj",
+      "projectPath": "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetIndia\\SweetIndia.csproj",
       "packagesPath": "C:\\Users\\laksh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetIndia\\obj\\",
+      "outputPath": "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetIndia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laksh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -531,11 +531,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetDAL\\SweetDAL.csproj": {
-              "projectPath": "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetDAL\\SweetDAL.csproj"
+            "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetDAL\\SweetDAL.csproj": {
+              "projectPath": "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetDAL\\SweetDAL.csproj"
             },
-            "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetModel\\SweetModel.csproj": {
-              "projectPath": "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetModel\\SweetModel.csproj"
+            "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetModel\\SweetModel.csproj": {
+              "projectPath": "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetModel\\SweetModel.csproj"
             }
           }
         }

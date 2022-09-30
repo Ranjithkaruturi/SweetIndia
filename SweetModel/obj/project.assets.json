@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetModel\\SweetModel.csproj",
+      "projectUniqueName": "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetModel\\SweetModel.csproj",
       "projectName": "SweetModel",
-      "projectPath": "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetModel\\SweetModel.csproj",
+      "projectPath": "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetModel\\SweetModel.csproj",
       "packagesPath": "C:\\Users\\laksh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laksh\\Source\\Repos\\SweetIndia\\SweetModel\\obj\\",
+      "outputPath": "C:\\MyProjects\\SweetIndia\\SweetIndia\\SweetModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laksh\\AppData\\Roaming\\NuGet\\NuGet.Config",
