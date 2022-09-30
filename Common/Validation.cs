@@ -2,15 +2,15 @@
 {
     public class Validation
     {
-        public bool customValidation()
+        public string customValidation()
         {
 			try
 			{
-				return true;
+				return "true";
 			}
 			catch (Exception exp)
 			{
-				return false;
+				return "false";
 			}
         }
     }
