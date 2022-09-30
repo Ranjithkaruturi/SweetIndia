@@ -2,15 +2,15 @@
 {
     public class Validation
     {
-        public string customValidation()
+        public int customValidation()
         {
 			try
 			{
-				return "Data inserted succesfully";
+				return 1;
 			}
 			catch (Exception exp)
 			{
-				return "Data insert failed";
+				return 0;
 			}
         }
     }
